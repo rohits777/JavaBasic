@@ -1,5 +1,5 @@
 package com.bridgelabz.day2;
-
+import java.util.*;
 public class While {
     public static void main(String args[])
     {
